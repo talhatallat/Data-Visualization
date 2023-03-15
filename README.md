@@ -28,3 +28,9 @@ People use Python for data-intensive work in genetics, climate research, politic
 ### <a href="https://github.com/talhatallat/Data-Visualization/blob/main/Generating%20Data/Changing_the_Label_Type_and_Graph_Thickness.py">Changing the Label Type and Graph Thickness<a/>
 
 ### <a href="https://github.com/talhatallat/Data-Visualization/blob/main/Generating%20Data/Correcting_the_Plot.py">Correcting the Plot<a/>
+
+### <a href="https://github.com/talhatallat/Data-Visualization/blob/main/Generating%20Data/Plotting_and_Styling_Individual_Points_with_scatter().py">Plotting and Styling Individual Points with scatter()<a/>
+
+### <a href="https://github.com/talhatallat/Data-Visualization/blob/main/Generating%20Data/Plotting_a_Series_of_Points_with_scatter().py">Plotting a Series of Points with scatter()<a/>
+
+### <a href="">Calculating Data Automatically<a/>
