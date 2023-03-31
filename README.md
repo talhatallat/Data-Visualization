@@ -59,4 +59,6 @@ People use Python for data-intensive work in genetics, climate research, politic
 
 ![image](https://user-images.githubusercontent.com/73076876/229165074-fc18d2f7-80a6-463d-9acd-89a2477fd427.png)
 
-### <a href="">Saving Your Plots Automatically<a/>
+### Saving Your Plots Automatically
+    #  first argument is a filename for the plot image, which will be saved in the same directory as scatter_squares.py. The second argument trims extra whitespace from the plot.
+    plt.savefig('squares_plot.png', bbox_inches='tight')
