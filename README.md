@@ -62,3 +62,7 @@ People use Python for data-intensive work in genetics, climate research, politic
 ### Saving Your Plots Automatically
     #  first argument is a filename for the plot image, which will be saved in the same directory as scatter_squares.py. The second argument trims extra whitespace from the plot.
     plt.savefig('squares_plot.png', bbox_inches='tight')
+
+## Random Walks
+ Python to generate data for a random walk and then use matplotlib to create a visually appealing representation of the generated data.
+### Creating the RandomWalk() Class
